@@ -1,4 +1,5 @@
 # ediwo
-webapp for music practice
+django webapp for better musical instrument practice
 
-see: https://hg.ediwo.com/ediwo/
+app: https://ediwo.com/
+repo: https://hg.ediwo.com/ediwo/
