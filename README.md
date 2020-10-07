@@ -1,4 +1,4 @@
 # ediwo
 webapp for music practice
 
-see: https://hg.ediwo.com
+see: https://hg.ediwo.com/ediwo/
